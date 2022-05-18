@@ -3,10 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Anna/Downloads/lr2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.214" />
+        <entry key="..\:/Users/Anna/Downloads/lr2/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.214" />
+        <entry key="..\:/Users/Anna/Downloads/lr2/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.214" />
+        <entry key="..\:/Users/Anna/Downloads/lr2/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.214" />
+        <entry key="..\:/Users/Anna/Downloads/lr2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.214" />
         <entry key="..\:/Users/Anna/Downloads/lr2/app/src/main/res/layout/activity_about_product.xml" value="0.11018518518518519" />
         <entry key="..\:/Users/Anna/Downloads/lr2/app/src/main/res/layout/activity_main.xml" value="0.11018518518518519" />
         <entry key="..\:/Users/Anna/Downloads/lr2/app/src/main/res/layout/fragment_explore.xml" value="0.4" />
         <entry key="..\:/Users/Anna/Downloads/lr2/app/src/main/res/layout/fragment_home.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/Anna/Downloads/lr2/app/src/main/res/layout/fragment_profile.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/Anna/Downloads/lr2/app/src/main/res/layout/item_list.xml" value="0.11018518518518519" />
         <entry key="..\:/Users/maxim/Repozinory/android/laba_2/app/src/main/res/layout/a.xml" value="0.21467391304347827" />
         <entry key="..\:/Users/maxim/Repozinory/android/laba_2/app/src/main/res/layout/activity_about_me.xml" value="0.22826086956521738" />
