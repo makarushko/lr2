@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lr2</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="profile">Profile</string>
+    <string name="products">Products</string>
+    <string name="group">951005</string>
+    <string name="name">Макарушко Анна Дмитриевна</string>
+    <string name="laba">Лабораторная работа №2</string>
+</resources>
